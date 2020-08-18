@@ -1,3 +1,7 @@
+
 print("hello world")
-Print(" how are youn")
+print(" how are youn")
 #are you fine too
+=======
+print("heloo Python")
+
